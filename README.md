@@ -25,11 +25,11 @@
    🌱 Open to Opportunities: Web Development
    
    📫 How to Reach Me:  
-   <a href='www.linkedin.com/in/sharmila-elumalai-62297127b'>
+   <a href='[www.linkedin.com/in/amin-nepali-84664419b/?isSelfProfile=true]'>
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
 
   
-- 😄 Pronouns: Web developer
+- 😄 Pronouns: Vibe Coder
 
 
 
